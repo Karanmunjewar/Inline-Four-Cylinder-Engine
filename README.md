@@ -30,4 +30,4 @@ This project demonstrates the basic working of an inline four-cylinder engine. T
 ## ✏️ Author
 **Karan Munjewar**  
 Automobile Engineer | CAD/CAM Enthusiast  
-[LinkedIn](your-link-here)
+[LinkedIn](https://www.linkedin.com/in/karan-munjewar-423b09350?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BiT1kYFipQxqV%2BkKMOzhV5g%3D%3D)
